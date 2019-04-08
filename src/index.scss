@@ -1,0 +1,13 @@
+body{
+  font-size: 32px;
+  color: green;
+  p{
+    color: red
+  }
+  div.image{
+    width: 100px;
+    height: 100px;
+    background: url("./hello.png") no-repeat;
+    background-size: cover;
+  }
+}
